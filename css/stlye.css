@@ -95,8 +95,10 @@ body{
     width: 308px;
     height: 346px;
     border-radius: 5px;
-
+    object-fit: cover;
+    object-position: left;
 }
+
 #room-description  .room-price{
     margin-top: 1.25rem;
     font-size: 1.25rem;
