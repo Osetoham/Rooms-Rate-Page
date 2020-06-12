@@ -215,6 +215,27 @@ body{
     padding-right: 0;
 }
 
+#footer3{
+    background: #1E1E1C;
+    text-align: center;
+    color: #fff;
+    margin-top: 100px;
+    padding: 10px 0px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  #footer3 p{
+   text-align: center;
+   margin-top: 10px;
+   font-family: 'Source Sans Pro', serif;
+  }
+  
+  #footer3 p a{
+    cursor: pointer;
+    
+  }  
+
 
 
 
